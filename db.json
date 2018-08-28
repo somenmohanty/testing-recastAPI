@@ -1,0 +1,14 @@
+{
+  "replies": [
+    {
+      "type": "text",
+      "content": "Hello world!"
+    }
+  ],
+  "conversation": {
+    "language": "en",
+    "memory": {
+      "user": "Bob"
+    }
+  }
+}
