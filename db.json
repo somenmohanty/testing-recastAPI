@@ -4,6 +4,10 @@
       "type": "text",
       "content": "Hello world!"
     }
+     {
+      "type": "text",
+      "content": "My text is here!"
+    }
   ],
   "conversation": {
     "language": "en",
