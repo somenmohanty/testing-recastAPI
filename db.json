@@ -1,18 +1,33 @@
 {
-  "replies": [
-    {
-      "type": "text",
-      "content": "Hello world 123!"
-    },
-     {
-      "type": "text",
-      "content": "My text is here!"
-    }
-  ],
-  "conversation": {
-    "language": "en",
-    "memory": {
-      "user": "Bob"
-    }
-  }
+	"replies": {
+		"type": "buttons",
+		"content": {
+			"title": "Leaves Available",
+			"buttons": [{
+				"value": "AnnualLeaveD",
+				"title": "Annual Leave",
+				"type": "postback"
+			}, {
+				"value": "SickLeaveN",
+				"title": "Sick Leave",
+				"type": "postback"
+			}, {
+				"value": "https://my-json-server.typicode.com/somenmohanty/testing-recastAPI/db",
+				"title": "URL1",
+				"type": "web_url"
+			}]
+		},
+		"value": {
+			"title": "Leaves Available",
+			"buttons": [{
+				"value": "AnnualLeaveD",
+				"title": "Annual Leave",
+				"type": "postback"
+			}, {
+				"value": "SickLeaveN",
+				"title": "Sick Leave",
+				"type": "postback"
+			}]
+		}
+	}
 }
