@@ -16,18 +16,6 @@
 				"title": "URL1",
 				"type": "web_url"
 			}]
-		},
-		"value": {
-			"title": "Leaves Available",
-			"buttons": [{
-				"value": "AnnualLeaveD",
-				"title": "Annual Leave",
-				"type": "postback"
-			}, {
-				"value": "SickLeaveN",
-				"title": "Sick Leave",
-				"type": "postback"
-			}]
 		}
 	}
 }
