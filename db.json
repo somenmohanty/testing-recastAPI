@@ -12,6 +12,10 @@
 				"title": "Sick Leave",
 				"type": "postback"
 			}, {
+				"value": "PaidLeave",
+				"title": "Paid Leave",
+				"type": "postback"
+			},{
 				"value": "https://my-json-server.typicode.com/somenmohanty/testing-recastAPI/db",
 				"title": "URL1",
 				"type": "web_url"
