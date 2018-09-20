@@ -1,25 +1,34 @@
 {
-	"replies": [{
-		"type": "buttons",
-		"content": {
-			"title": "Leaves Available",
-			"buttons": [{
-				"value": "AnnualLeaveD",
-				"title": "Annual Leave",
-				"type": "postback"
-			}, {
-				"value": "SickLeaveN",
-				"title": "Sick Leave",
-				"type": "postback"
-			}, {
-				"value": "PaidLeave",
-				"title": "Paid Leave",
-				"type": "postback"
-			},{
-				"value": "https://my-json-server.typicode.com/somenmohanty/testing-recastAPI/db",
-				"title": "URL1",
-				"type": "web_url"
-			}]
-		}
-	}]
+    "messages": [
+        {
+             "type": "text",
+             "content": "Hello world!"
+        }
+    ],
+    "conversation": {
+        "id": "CONVERSATION_ID",
+        "language": "en",
+        "memory": {},
+        "skill": "default",
+        "skill_occurences": 1
+    },
+    "nlp": {
+        "uuid": "b96bc782-6aba-4fac-aeaa-2326936b08bf",
+        "source": "Hello Recast.AI",
+        "intents": [
+            {
+                "slug": "greetings",
+                "confidence": 0.99
+            }
+        ],
+        "act": "assert",
+        "type": null,
+        "sentiment": "neutral",
+        "entities": {},
+        "language": "en",
+        "processing_language": "en",
+        "version": "2.10.1",
+        "timestamp": "2017-10-19T13:24:12.984856+00:00",
+        "status": 200
+    }
 }
