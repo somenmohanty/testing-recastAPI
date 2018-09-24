@@ -11,12 +11,8 @@
             "title": "BUTTON_1_TITLE",
             "type": "BUTTON_1_TYPE",
             "value": "BUTTON_1_VALUE"
-          },
-            {
-            "title": "BUTTON_2_TITLE",
-            "type": "BUTTON_2_TYPE",
-            "value": "BUTTON_2_VALUE"
           }
+           
         ]
       }
     ]
