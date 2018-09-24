@@ -1,5 +1,5 @@
 {
-    "replies": {
+    "replies":[ {
     "type": "carousel",
     "content": [
       {
@@ -16,5 +16,5 @@
         ]
       }
     ]
-  }
+  }]
 }
