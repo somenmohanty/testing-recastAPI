@@ -5,12 +5,12 @@
             "content": [
                 {
                     "title": "Training Days",
-                    "buttons": {
+                    "buttons": [{
                         "title": "Training Days",
                          "subtitle": "CARD_1_SUBTITLE",
                         "value": "Training Days",
                          "type": "Training Days"
-                    }
+                    }]
                 },
                 {
                     "title": "Annual Leave (FRA)",
