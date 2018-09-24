@@ -7,7 +7,9 @@
                     "title": "Training Days",
                     "buttons": {
                         "title": "Training Days",
-                        "value": "Training Days"
+                        
+                        "value": "Training Days",
+                         "type": "Training Days"
                     }
                 },
                 {
@@ -15,6 +17,8 @@
                     "buttons": {
                         "title": "Annual Leave (FRA)",
                         "value": "Annual Leave (FRA)"
+                        ,
+                         "type": "Annual Leave (FRA)"
                     }
                 },
                 {
@@ -22,6 +26,8 @@
                     "buttons": {
                         "title": "Sick Leave (FRA)",
                         "value": "Sick Leave (FRA)"
+                        ,
+                         "type": "Sick Leave (FRA)"
                     }
                 },
                 {
@@ -29,27 +35,32 @@
                     "buttons": {
                         "title": "Time in Lieu Of",
                         "value": "Time in Lieu Of"
+                        ,
+                         "type": "Time in Lieu Of"
                     }
                 },
                 {
                     "title": "Minus Hours",
                     "buttons": {
                         "title": "Minus Hours",
-                        "value": "Minus Hours"
+                        "value": "Minus Hours",
+                         "type": "Minus Hours"
                     }
                 },
                 {
                     "title": "Working Time",
                     "buttons": {
                         "title": "Working Time",
-                        "value": "Working Time"
+                        "value": "Working Time",
+                         "type": "Working Time"
                     }
                 },
                 {
                     "title": "Overtime",
                     "buttons": {
                         "title": "Overtime",
-                        "value": "Overtime"
+                        "value": "Overtime",
+                         "type": "Overtime"
                     }
                 }
             ]
