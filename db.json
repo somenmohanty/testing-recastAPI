@@ -1,32 +1,58 @@
 {
-    "replies":[ {
-    "type": "carousel",
-    "content": [
-      {
-        "title": "CARD_1_TITLE",
-        "subtitle": "CARD_1_SUBTITLE",
-        "imageUrl": "IMAGE_URL",
-        "buttons": [
-          {
-            "title": "BUTTON_1_TITLE",
-            "type": "BUTTON_1_TYPE",
-            "value": "BUTTON_1_VALUE"
-          }
-           
-        ]
-      },{
-        "title": "CARD_2_TITLE",
-        "subtitle": "CARD_2_SUBTITLE",
-        "imageUrl": "IMAGE_URL",
-        "buttons": [
-          {
-            "title": "BUTTON_2_TITLE",
-            "type": "BUTTON_2_TYPE",
-            "value": "BUTTON_2_VALUE"
-          }
-           
-        ]
-      }
+    "replies": [
+        {
+            "type": "carousel",
+            "content": [
+                {
+                    "title": "Training Days",
+                    "buttons": {
+                        "title": "Training Days",
+                        "value": "Training Days"
+                    }
+                },
+                {
+                    "title": "Annual Leave (FRA)",
+                    "buttons": {
+                        "title": "Annual Leave (FRA)",
+                        "value": "Annual Leave (FRA)"
+                    }
+                },
+                {
+                    "title": "Sick Leave (FRA)",
+                    "buttons": {
+                        "title": "Sick Leave (FRA)",
+                        "value": "Sick Leave (FRA)"
+                    }
+                },
+                {
+                    "title": "Time in Lieu Of",
+                    "buttons": {
+                        "title": "Time in Lieu Of",
+                        "value": "Time in Lieu Of"
+                    }
+                },
+                {
+                    "title": "Minus Hours",
+                    "buttons": {
+                        "title": "Minus Hours",
+                        "value": "Minus Hours"
+                    }
+                },
+                {
+                    "title": "Working Time",
+                    "buttons": {
+                        "title": "Working Time",
+                        "value": "Working Time"
+                    }
+                },
+                {
+                    "title": "Overtime",
+                    "buttons": {
+                        "title": "Overtime",
+                        "value": "Overtime"
+                    }
+                }
+            ]
+        }
     ]
-  }]
 }
