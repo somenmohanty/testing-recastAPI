@@ -14,6 +14,18 @@
           }
            
         ]
+      },{
+        "title": "CARD_2_TITLE",
+        "subtitle": "CARD_2_SUBTITLE",
+        "imageUrl": "IMAGE_URL",
+        "buttons": [
+          {
+            "title": "BUTTON_2_TITLE",
+            "type": "BUTTON_2_TYPE",
+            "value": "BUTTON_2_VALUE"
+          }
+           
+        ]
       }
     ]
   }]
