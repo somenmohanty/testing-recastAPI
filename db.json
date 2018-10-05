@@ -1,67 +1,112 @@
 {
     "replies": [
         {
-            "type": "carousel",
-            "content": [
+            "title": "2018-09-07 2018-09-07",
+            "subtitle": "FRA-ANNL",
+            "buttons": [
                 {
-                    "title": "Training Days",
-                    "buttons": [{
-                        "title": "Training Days",
-                         "subtitle": "CARD_1_SUBTITLE",
-                        "value": "Training Days",
-                         "type": "Training Days"
-                    }]
-                },
+                    "title": "Update Leave",
+                    "value": "Update Leaveype JVWBot1020341535449849540",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2018-09-10 2018-09-10",
+            "subtitle": "FRA-ANNL",
+            "buttons": [
                 {
-                    "title": "Annual Leave (FRA)",
-                    "buttons": {
-                        "title": "Annual Leave (FRA)",
-                        "value": "Annual Leave (FRA)"
-                        ,
-                         "type": "Annual Leave (FRA)"
-                    }
-                },
+                    "title": "Update Leave",
+                    "value": "Update Leaveype JVWBot1020341535469377491",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2018-09-06 2018-09-06",
+            "subtitle": "FRA-ANNL",
+            "buttons": [
                 {
-                    "title": "Sick Leave (FRA)",
-                    "buttons": {
-                        "title": "Sick Leave (FRA)",
-                        "value": "Sick Leave (FRA)"
-                        ,
-                         "type": "Sick Leave (FRA)"
-                    }
-                },
+                    "title": "Update Leave",
+                    "value": "Update Leaveype JVWBot1020341535470446488",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2018-09-05 2018-09-05",
+            "subtitle": "FRA-ANNL",
+            "buttons": [
                 {
-                    "title": "Time in Lieu Of",
-                    "buttons": {
-                        "title": "Time in Lieu Of",
-                        "value": "Time in Lieu Of"
-                        ,
-                         "type": "Time in Lieu Of"
-                    }
-                },
+                    "title": "Update Leave",
+                    "value": "Update Leaveype JVWBot1020341535470795180",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2018-10-03 2018-10-03",
+            "subtitle": "FRA-ANNL",
+            "buttons": [
                 {
-                    "title": "Minus Hours",
-                    "buttons": {
-                        "title": "Minus Hours",
-                        "value": "Minus Hours",
-                         "type": "Minus Hours"
-                    }
-                },
+                    "title": "Update Leave",
+                    "value": "Update Leaveype JVWBot1020341538564054025",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2015-10-05 2015-10-05",
+            "subtitle": "SALARY_NOR",
+            "buttons": [
                 {
-                    "title": "Working Time",
-                    "buttons": {
-                        "title": "Working Time",
-                        "value": "Working Time",
-                         "type": "Working Time"
-                    }
-                },
+                    "title": "Update Leave",
+                    "value": "Update Leaveype 0d111d2b8cf24208a2d8ff97091fcd25",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2015-10-06 2015-10-06",
+            "subtitle": "SALARY_NOR",
+            "buttons": [
                 {
-                    "title": "Overtime",
-                    "buttons": {
-                        "title": "Overtime",
-                        "value": "Overtime",
-                         "type": "Overtime"
-                    }
+                    "title": "Update Leave",
+                    "value": "Update Leaveype 260844f293aa4b4c9be516848803609d",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2015-10-07 2015-10-07",
+            "subtitle": "SALARY_NOR",
+            "buttons": [
+                {
+                    "title": "Update Leave",
+                    "value": "Update Leaveype dcbd540fcd6b415698e1baec2c52b475",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2015-10-08 2015-10-08",
+            "subtitle": "SALARY_NOR",
+            "buttons": [
+                {
+                    "title": "Update Leave",
+                    "value": "Update Leaveype 64d727958e3c4bef863b047dd8549c2d",
+                    "type": "postback"
+                }
+            ]
+        },
+        {
+            "title": "2015-10-09 2015-10-09",
+            "subtitle": "SALARY_NOR",
+            "buttons": [
+                {
+                    "title": "Update Leave",
+                    "value": "Update Leaveype dcec8f59fb6a42459c7ef326e9e03d6c",
+                    "type": "postback"
                 }
             ]
         }
