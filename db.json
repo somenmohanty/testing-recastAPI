@@ -9,8 +9,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype JVWBot1020341535449849540",
-                            "type": "Update Leaveype JVWBot1020341535449849540"
+                            "value": "Update Leave Type JVWBot1020341535449849540",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -20,8 +20,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype JVWBot1020341535469377491",
-                            "type": "Update Leaveype JVWBot1020341535469377491"
+                            "value": "Update Leave Type JVWBot1020341535469377491",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -31,8 +31,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype JVWBot1020341535470446488",
-                            "type": "Update Leaveype JVWBot1020341535470446488"
+                            "value": "Update Leave Type JVWBot1020341535470446488",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -42,8 +42,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype JVWBot1020341535470795180",
-                            "type": "postback"
+                            "value": "Update Leave Type JVWBot1020341535470795180",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -53,8 +53,19 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype JVWBot1020341538564054025",
-                            "type": "Update Leaveype JVWBot1020341538564054025"
+                            "value": "Update Leave Type JVWBot1020341538564054025",
+                            "type": "Update Leave"
+                        }
+                    ]
+                },
+                {
+                    "title": "2018-10-08 2018-10-11",
+                    "subtitle": "FRA-ANNL",
+                    "buttons": [
+                        {
+                            "title": "Update Leave",
+                            "value": "Update Leave Type JVWBot1020341538991259143",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -64,8 +75,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype 0d111d2b8cf24208a2d8ff97091fcd25",
-                            "type": "Update Leaveype 0d111d2b8cf24208a2d8ff97091fcd25"
+                            "value": "Update Leave Type 0d111d2b8cf24208a2d8ff97091fcd25",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -75,8 +86,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype 260844f293aa4b4c9be516848803609d",
-                            "type": "Update Leaveype 260844f293aa4b4c9be516848803609d"
+                            "value": "Update Leave Type 260844f293aa4b4c9be516848803609d",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -86,8 +97,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype dcbd540fcd6b415698e1baec2c52b475",
-                            "type": "Update Leaveype dcbd540fcd6b415698e1baec2c52b475"
+                            "value": "Update Leave Type dcbd540fcd6b415698e1baec2c52b475",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -97,8 +108,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype 64d727958e3c4bef863b047dd8549c2d",
-                            "type": "Update Leaveype 64d727958e3c4bef863b047dd8549c2d"
+                            "value": "Update Leave Type 64d727958e3c4bef863b047dd8549c2d",
+                            "type": "Update Leave"
                         }
                     ]
                 },
@@ -108,8 +119,8 @@
                     "buttons": [
                         {
                             "title": "Update Leave",
-                            "value": "Update Leaveype dcec8f59fb6a42459c7ef326e9e03d6c",
-                            "type": "Update Leaveype dcec8f59fb6a42459c7ef326e9e03d6c"
+                            "value": "Update Leave Type dcec8f59fb6a42459c7ef326e9e03d6c",
+                            "type": "Update Leave"
                         }
                     ]
                 }
